@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/Yavuz Datasetler/datasets/cresci-2017.csv/datasets_full.csv/fake_followers.csv/fake_followers.csv/fake_followers.csv/users.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Yavuz Datasetler/datasets/cresci-2017.csv/datasets_full.csv/genuine_accounts.csv/genuine_accounts.csv/users.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Yavuz Datasetler/datasets/cresci-2017.csv/datasets_full.csv/social_spambots_1.csv/social_spambots_1.csv/users.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
